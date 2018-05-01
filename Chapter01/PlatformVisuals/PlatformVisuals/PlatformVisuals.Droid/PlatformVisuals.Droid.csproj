@@ -82,9 +82,9 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\ic_action_search.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Properties\AndroidManifest.xml">
+    <None Include="Properties\AndroidManifest.xml">
       <SubType>Designer</SubType>
-    </Content>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Tabbar.axml" />
