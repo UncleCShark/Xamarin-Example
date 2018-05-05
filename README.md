@@ -2,6 +2,9 @@
 
 Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can be downloaded from https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/.
 
+# Glossary
+Chapter 01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals)
+
 # Getting Started
 
 ## Prerequisites to run the samples
