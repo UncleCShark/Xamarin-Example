@@ -12,8 +12,8 @@ Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can
 | 05 [Dealing with sizes](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter05) | 15 The interactive interface | 25 Page varieties |
 | 06 [Button clicks](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter06) | 16 Data binding | 26 Custom layouts |
 | 07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07) | 17 Mastering the Grid | 27 Custom renderers |
-| 08 Code and XAML in harmony | 18 MVVM | 28 Location and Maps |
-| 09 Platform-specific API calls | 19 Collection views | 
+| 08 [Code and XAML in harmony](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter08) | 18 MVVM | 28 Location and Maps |
+| 09 [Platform-specific API calls](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter09) | 19 Collection views | 
 | 10 XAML markup extensions | 20 Async and file I/O |
 
 # Getting Started
