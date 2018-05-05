@@ -5,7 +5,7 @@ Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can
 # Getting Started
 
 ## Prerequisites to run the samples
-- Install [Microsoft Visual Studio](https://www.visualstudio.com/) 2017
+- Install any version of [Microsoft Visual Studio](https://www.visualstudio.com/) 2017
 
 ## Notes
 This is a fork of https://github.com/xamarin/xamarin-forms-book-samples as at April 17, 2018. The samples use package references (PackageReference) , Net Standard 2.0 or Portable Class Library (for Xamarin.Forms projects).
