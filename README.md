@@ -4,9 +4,12 @@ Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can
 
 # Glossary
 Chapter 01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals)
-
 Chapter 02 [Anatomy of an app](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter02)
-
+Chapter 03 [Deeper into text](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter03)
+Chapter 04 [Scrolling the stack](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter04)
+Chapter 05 [Dealing with sizes](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter05)
+Chapter 06 [Button clicks](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter06)
+Chapter 07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07)
 # Getting Started
 
 ## Prerequisites to run the samples
