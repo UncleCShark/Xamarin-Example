@@ -9,16 +9,11 @@ Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can
 | 03 [Deeper into text](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter03)| 13 |
 | 04 [Scrolling the stack](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter04)| 14 |
 | 05 [Dealing with sizes](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter05) | 15 |
-
-06 [Button clicks](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter06)
-
-07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07)
-
-08 Code and XAML in harmony
-
-09 Platform-specific API calls
-
-10 XAML markup extensions
+| 06 [Button clicks](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter06) | 16 |
+| 07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07) | 17 |
+| 08 Code and XAML in harmony | 18 |
+| 09 Platform-specific API calls | 19 |
+| 10 XAML markup extensions | 20 |
 
 # Getting Started
 
