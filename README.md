@@ -3,7 +3,7 @@
 Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can be downloaded from https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/.
 
 # Glossary
-01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals)    11 The bindable infrastructure
+01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals)        11 The bindable infrastructure
 
 02 [Anatomy of an app](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter02)
 
@@ -23,7 +23,6 @@ Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can
 
 10 XAML markup extensions
 
-Chapter 07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07)
 # Getting Started
 
 ## Prerequisites to run the samples
