@@ -2,6 +2,11 @@
 
 Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can be downloaded from https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/.
 
+# Getting Started
+
+## Prerequisites to run the samples
+- Install [Microsoft Visual Studio](https://www.visualstudio.com/) 2017
+
 ## Notes
 This is a fork of https://github.com/xamarin/xamarin-forms-book-samples as at April 17, 2018. The samples use package references (PackageReference) , Net Standard 2.0 or Portable Class Library (for Xamarin.Forms projects).
 The UWP projects are built with Windows 10 Fall Creators Update 10.0 Build Number 16299. The projects were build using Visual Studio Community 2017.
