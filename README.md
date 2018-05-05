@@ -9,11 +9,11 @@ Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can
 | 02 [Anatomy of an app](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter02) | 12 Styles | 22 Animation |
 | 03 [Deeper into text](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter03)| 13 Bitmaps | 23 Triggers and behaviors |
 | 04 [Scrolling the stack](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter04)| 14 Absolute layout | 24 Page navigation |
-| 05 [Dealing with sizes](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter05) | 15 The interactive interface | 25 |
-| 06 [Button clicks](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter06) | 16 Data binding | 26 |
-| 07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07) | 17 Mastering the Grid | 27 |
+| 05 [Dealing with sizes](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter05) | 15 The interactive interface | 25 Page varieties |
+| 06 [Button clicks](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter06) | 16 Data binding | 26 Custom layouts |
+| 07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07) | 17 Mastering the Grid | 27 Custom renderers |
 | 08 Code and XAML in harmony | 18 MVVM | 28 |
-| 09 Platform-specific API calls | 19 Collection views |
+| 09 Platform-specific API calls | 19 Collection views | 
 | 10 XAML markup extensions | 20 Async and file I/O |
 
 # Getting Started
