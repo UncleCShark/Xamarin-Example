@@ -3,17 +3,26 @@
 Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can be downloaded from https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/.
 
 # Glossary
-Chapter 01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals)
+01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals)    
+11 The bindable infrastructure
 
-Chapter 02 [Anatomy of an app](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter02)
+02 [Anatomy of an app](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter02)
 
-Chapter 03 [Deeper into text](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter03)
+03 [Deeper into text](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter03)
 
-Chapter 04 [Scrolling the stack](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter04)
+04 [Scrolling the stack](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter04)
 
-Chapter 05 [Dealing with sizes](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter05)
+05 [Dealing with sizes](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter05)
 
-Chapter 06 [Button clicks](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter06)
+06 [Button clicks](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter06)
+
+07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07)
+
+08 Code and XAML in harmony
+
+09 Platform-specific API calls
+
+10 XAML markup extensions
 
 Chapter 07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07)
 # Getting Started
