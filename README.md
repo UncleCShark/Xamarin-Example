@@ -5,16 +5,16 @@ Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can
 # Glossary
 |     |     |     |
 | --- | --- | --- |
-| 01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals) | 11 The bindable infrastructure | 21 |
-| 02 [Anatomy of an app](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter02) | 12 Styles | 22 |
-| 03 [Deeper into text](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter03)| 13 Bitmaps | 23 |
-| 04 [Scrolling the stack](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter04)| 14 Absolute layout | 24 |
+| 01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals) | 11 The bindable infrastructure | 21 Transforms |
+| 02 [Anatomy of an app](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter02) | 12 Styles | 22 Animation |
+| 03 [Deeper into text](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter03)| 13 Bitmaps | 23 Triggers and behaviors |
+| 04 [Scrolling the stack](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter04)| 14 Absolute layout | 24 Page navigation |
 | 05 [Dealing with sizes](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter05) | 15 The interactive interface | 25 |
 | 06 [Button clicks](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter06) | 16 Data binding | 26 |
 | 07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07) | 17 Mastering the Grid | 27 |
-| 08 Code and XAML in harmony | 18 | 28 |
-| 09 Platform-specific API calls | 19 |
-| 10 XAML markup extensions | 20 |
+| 08 Code and XAML in harmony | 18 MVVM | 28 |
+| 09 Platform-specific API calls | 19 Collection views |
+| 10 XAML markup extensions | 20 Async and file I/O |
 
 # Getting Started
 
