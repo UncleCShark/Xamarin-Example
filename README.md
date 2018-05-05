@@ -5,7 +5,7 @@ Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can
 # Glossary
 01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals)        11 The bindable infrastructure
 
-02 [Anatomy of an app](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter02)
+02 [Anatomy of an app](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter02)              12 Styles
 
 03 [Deeper into text](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter03)
 
