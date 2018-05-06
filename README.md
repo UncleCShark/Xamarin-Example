@@ -22,7 +22,7 @@ Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can
 - Install any version of [Microsoft Visual Studio](https://www.visualstudio.com/) 2017
 
 ## Notes
-This is a fork of https://github.com/xamarin/xamarin-forms-book-samples as at April 17, 2018. The sample projects use package references ([PackageReference](https://docs.microsoft.com/pl-pl/nuget/consume-packages/package-references-in-project-files) in .csproj files). Every not SAP solution contains two [Xamarin.Forms](https://www.xamarin.com/forms) projects: Net Standard 2.0 and legacy Portable Class Library. You can refer to they in apps projects (IOS, Android, UWP) alternatively. The UWP projects are built with Windows 10 Fall Creators Update 10.0 Build Number 16299. The projects were build using [Visual Studio Community 2017](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio).
+This is a fork of https://github.com/xamarin/xamarin-forms-book-samples as at April 17, 2018. The sample projects use package references ([PackageReference](https://docs.microsoft.com/pl-pl/nuget/consume-packages/package-references-in-project-files) in .csproj files). Every not SAP (Shared Asset Project) solution contains two [Xamarin.Forms](https://www.xamarin.com/forms) projects: Net Standard 2.0 and legacy Portable Class Library. You can refer to they in apps projects (IOS, Android, UWP) alternatively. The UWP projects are built with Windows 10 Fall Creators Update 10.0 Build Number 16299. The projects were build using [Visual Studio Community 2017](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio).
 
 ### The Projects
 
