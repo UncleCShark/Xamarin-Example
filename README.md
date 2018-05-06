@@ -1,6 +1,6 @@
 # xamarin-forms-book-samples
 
-Sample code for the book *Creating Mobile Apps with Xamarin.Forms*. The book can be downloaded from https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/.
+Sample code for the book [*Creating Mobile Apps with Xamarin.Forms*](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/).
 
 # Glossary
 |     |     |     |
