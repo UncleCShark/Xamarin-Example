@@ -14,7 +14,6 @@ Sample code for the book [*Creating Mobile Apps with Xamarin.Forms*](https://doc
 | 07 [XAML vs. code](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter07) | 17 Mastering the Grid | 27 Custom renderers |
 | 08 [Code and XAML in harmony](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter08) | 18 MVVM | 28 Location and Maps |
 | 09 [Platform-specific API calls](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter09) | 19 Collection views |  29 [Libraries](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Libraries) |
-
 | 10 [XAML markup extensions](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter10) | 20 Async and file I/O | 28 Location and Maps |
 
 
