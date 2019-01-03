@@ -4,12 +4,6 @@ Sample code for the book [*Creating Mobile Apps with Xamarin.Forms*](https://doc
 
 # Glossary
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
 |  1  |  2  |  3  |
 |---|---|---|
 | 01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals) | 11 [The bindable infrastructure](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter11) | 21 Transforms |
