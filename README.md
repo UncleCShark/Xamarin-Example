@@ -3,7 +3,7 @@
 Sample code for the book [*Creating Mobile Apps with Xamarin.Forms*](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/).
 
 # Glossary
-|     |     |     |
+| []()|     |     |
 | --- | --- | --- |
 | 01 [How does Xamarin.Forms fit in?](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter01/PlatformVisuals) | 11 [The bindable infrastructure](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter11) | 21 Transforms |
 | 02 [Anatomy of an app](https://github.com/UncleCShark/Xamarin-Examples/tree/master/Chapter02) | 12 Styles | 22 Animation |
